@@ -21,14 +21,3 @@ make install
 ```
 npm link
 ```
-### Сравнение в формате stylish (по умолчанию):
-
-[![asciicast](https://asciinema.org/a/fNNXMDMmmjbQD2Cq84glEvJ5v.svg)](https://asciinema.org/a/fNNXMDMmmjbQD2Cq84glEvJ5v)
-
-### Сравнение в плоском формате plain:
-
-[![asciicast](https://asciinema.org/a/7qFBUpFonxTrdk15Gf95rNb3c.svg)](https://asciinema.org/a/7qFBUpFonxTrdk15Gf95rNb3c)
-
-### Вывод в формате JSON:
-
-[![asciicast](https://asciinema.org/a/RuXJk9MVtCLKIQGocWQ9qK8dg.svg)](https://asciinema.org/a/RuXJk9MVtCLKIQGocWQ9qK8dg)
